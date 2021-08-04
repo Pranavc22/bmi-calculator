@@ -4,6 +4,7 @@
 This is a mini-project that helps the user calculate their BMI. This is part of the Flutter Development Bootcamp Course by The London App Brewery.
 
 ## Screenshots
+<p><img src="https://raw.githubusercontent.com/Pranavc22/bmi-calculator/main/screenshots/HomePage.jpg" alt="HomePage" width="173" height="374"/>&emsp;<img src="https://raw.githubusercontent.com/Pranavc22/bmi-calculator/main/screenshots/ResultsPage1.jpg" alt="NormalResult" width="173" height="374"/>&emsp;<img src="https://raw.githubusercontent.com/Pranavc22/bmi-calculator/main/screenshots/ResultsPage2.jpg" alt="HighResult" width="173" height="374"/>&emsp;<img src="https://raw.githubusercontent.com/Pranavc22/bmi-calculator/main/screenshots/ResultsPage3.jpg" alt="LowResult" width="173" height="374"/></p>
 
 ## Concepts Learned
 This project has taught me a few new concepts: 
@@ -21,5 +22,5 @@ Some of the resources that will help during the project are:
 - [Theme documentation](https://api.flutter.dev/flutter/material/Theme-class.html)
 - [Gesture Detector Documentation](https://api.flutter.dev/flutter/widgets/GestureDetector-class.html)
 - [Slider Documentation](https://api.flutter.dev/flutter/material/Slider-class.html)
-- [Navigation in Flutter.](https://flutter.dev/docs/cookbook/navigation/navigation-basics)
+- [Navigation in Flutter](https://flutter.dev/docs/cookbook/navigation/navigation-basics)
 - [Dribble](https://dribbble.com/)
