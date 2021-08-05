@@ -16,7 +16,7 @@ This project has taught me a few new concepts:
 
 Apart from this, I also learned the importance of consistency in design and more healthy UI and UX practices. 
 
-##Resources
+## Resources
 Some of the resources that will help during the project are:
 - [The stub project](https://github.com/londonappbrewery/bmi-calculator-flutter)
 - [Theme documentation](https://api.flutter.dev/flutter/material/Theme-class.html)
